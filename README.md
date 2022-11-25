@@ -1,16 +1,12 @@
 # API - Sistema de Gerenciamento de Aeroportos
 
 
-![Capa do Projeto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-aTrBq-3N4t5iJFdQLsDQHbWA1leBTD8Qzw&usqp=CAU)
+![Capa do Projeto]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-aTrBq-3N4t5iJFdQLsDQHbWA1leBTD8Qzw&usqp=CAU](https://i0.wp.com/www.aeroflap.com.br/wp-content/uploads/2022/02/aeroporto-portoalegre-1.jpg?fit=1097%2C568&ssl=1))
 
 # Sobre o Projeto
 
 API feita em Python utilizando o framework Flask. 
 Suas funções consistem em obter todos os aeroportos cadastrados ou algum específico por id, cadastrar novos aeroportos, atualizar ou deletar aeroportos cadastrados.
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
@@ -21,17 +17,13 @@ Suas funções consistem em obter todos os aeroportos cadastrados ou algum espec
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
-
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [x] Matricular em Curso
-- [x] Cancelar Matricula
-- [x] Visualizar Notas
-- [x] Visualizar e Atualizar Informações do Estudante
+- [x] Obter aeroportos utilizando o método GET
+- [x] Cadastrar aeroportos utilizando o método POST
+- [x] Atualizar aeroportos utilizando o método PUT
+- [x] Deletar aeroportos utilizando o método DELETE
 
 # Tecnologias Usadas
 
@@ -47,12 +39,12 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+- Rafael Dias
+- Daniel Augusto
+- Messias Reis
+- Anne Karoline
+- Anderson Paulo
 
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
-# Agradecimentos
-
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
