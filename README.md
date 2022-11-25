@@ -1,7 +1,7 @@
 # API - Sistema de Gerenciamento de Aeroportos
 
 
-![Capa do Projeto]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-aTrBq-3N4t5iJFdQLsDQHbWA1leBTD8Qzw&usqp=CAU](https://i0.wp.com/www.aeroflap.com.br/wp-content/uploads/2022/02/aeroporto-portoalegre-1.jpg?fit=1097%2C568&ssl=1))
+![Capa do Projeto](https://i0.wp.com/www.aeroflap.com.br/wp-content/uploads/2022/02/aeroporto-portoalegre-1.jpg?fit=1097%2C568&ssl=1)
 
 # Sobre o Projeto
 
